@@ -1,0 +1,17 @@
+﻿model           Eminence_Alpha15
+
+Fs		41 Hz
+Re		5.88 Ω
+Le		0.84 mH
+Qms		7.23
+Qes		1.53
+Qts		1.26
+Vas		260.00 liters
+Vd 		325.0 cc
+Cms		0.25 mm/N
+BL		7.70 T-M
+Mms		59 grams
+EBP		27
+Xmax		3.80 mm
+Sd		856.3 cm2
+Xlim		8.4 mm
